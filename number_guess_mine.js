@@ -16,7 +16,6 @@ function show () {
     
     inpt.value="";
     inpt.focus();
-    alert(random);
 
     if (npt == random) {
         lwh.textContent = "CONGRATULATIONS!!!";
